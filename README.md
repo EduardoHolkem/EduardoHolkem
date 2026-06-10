@@ -43,11 +43,14 @@ Atualmente estudo **Tecnologia da Informação** no SEG - Sistema de Ensino Gaú
 - 📚 Sempre aprendendo e explorando novas tecnologias
 - 🏠 Localização: Rio Grande do Sul, Brasil
 
+
+
+
 <br clear="right"/>
 
----
+## 🤖 Linguagens e Tecnologias
 
-### 🤖 Linguagens e Tecnologias
+<br/>
 
 <img 
     align="left" 
@@ -98,9 +101,10 @@ Atualmente estudo **Tecnologia da Informação** no SEG - Sistema de Ensino Gaú
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+
+
 <br/><br/>
 
----
 
 ## 📊 Estatísticas GitHub
 
@@ -112,8 +116,7 @@ Atualmente estudo **Tecnologia da Informação** no SEG - Sistema de Ensino Gaú
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHolkem&layout=compact&theme=transparent" />
 </p>
 
-
----
+<br/><br/>
 
 ## 🎮 Áreas de Interesse em Projetos
 
@@ -128,26 +131,9 @@ Atualmente estudo **Tecnologia da Informação** no SEG - Sistema de Ensino Gaú
 
 </div>
 
----
-
-## 📬 Contato
 
 <div align="center">
-
-<p>Fique à vontade para entrar em contato, estou aberto a colaborações, oportunidades e boas conversas sobre tecnologia!</p>
-
-<a href="https://www.linkedin.com/in/eduardo-da-silva-holkem-b6b5a8415/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/eduardoholkem/"><img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UCNdM_y1dQ75-5CmmAk5yE0w"><img src="https://img.shields.io/badge/YouTube-Inscrever-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-
-<br/><br/>
-
-<a href="https://www.google.com/maps/place/Santa+Maria+-+RS/@-29.7774551,-53.9894576,11z/data=!3m1!4b1!4m6!3m5!1s0x9503cb5d0da567bf:0xa44d9c1e7f7f7297!8m2!3d-29.6894984!4d-53.7923441!16zL20vMDUwczJi?entry=ttu&g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D"><img src="https://img.shields.io/badge/Localização-Rio%20Grande%20do%20Sul%2C%20Brasil-green?style=flat-square&logo=google-maps&logoColor=white" /></a>
-
-</div>
-
----
-
-<div align="center">
-
+<br/><br/><br/>
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer" width="860" />
 

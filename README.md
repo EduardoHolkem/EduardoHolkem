@@ -8,9 +8,10 @@
 
 <br/>
 
-<!-- Social Badges -->
-<p>
-  <a href="https://www.linkedin.com/in/eduardo-da-silva-holkem-b6b5a8415/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.instagram.com/eduardoholkem/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><a href="https://www.youtube.com/channel/UCNdM_y1dQ75-5CmmAk5yE0w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+## 🌐 Contato e Redes
+
+<p align="center">
+<a href="mailto:eduardosilvaholkem@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/eduardo-da-silva-holkem-b6b5a8415/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.youtube.com/channel/UCNdM_y1dQ75-5CmmAk5yE0w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a><a href="https://www.instagram.com/eduardoholkem/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <!-- Profile Views Counter -->
@@ -21,17 +22,15 @@
 
 </div>
 
----
-
 ## 👨‍💻 Sobre Mim
 
 <img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```yaml
-nome:       Eduardo Holkem
-idade:      19 anos
-formação:   Tecnologia da Informação - SEG
-status:     Desenvolvendo projetos próprios
+nome:        Eduardo Holkem
+idade:       19 anos
+formação:    Tecnologia da Informação - SEG
+status:      Desenvolvendo projetos próprios
 localização: Rio Grande do Sul, Brasil
 ```
 
@@ -103,24 +102,16 @@ Atualmente estudo **Tecnologia da Informação** no SEG - Sistema de Ensino Gaú
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas GitHub
 
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=EduardoHolkem&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&title_color=58a6ff&icon_color=58a6ff&border_color=58a6ff"
-  />
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHolkem&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=58a6ff&border_color=58a6ff"
-  />
-  <br clear="left"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoHolkem&show_icons=true&theme=transparent" />
 </p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHolkem&layout=compact&theme=transparent" />
+</p>
+
 
 ---
 

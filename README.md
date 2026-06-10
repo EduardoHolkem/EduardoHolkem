@@ -13,6 +13,7 @@
 </p>
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=EduardoHolkem&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+<a href="https://www.youtube.com/channel/UCNdM_y1dQ75-5CmmAk5yE0w"><img src="https://img.shields.io/youtube/channel/subscribers/UCNdM_y1dQ75-5CmmAk5yE0w?style=for-the-badge&logo=youtube&logoColor=white&label=Inscritos&color=FF0000" /></a>
 
 </div>
 
@@ -25,9 +26,9 @@
 ```yaml
 nome:       Eduardo Holkem
 idade:      19 anos
-localização: Rio Grande do Sul, Brasil
 formação:   Tecnologia da Informação - SEG
-status:     Desenvolvendo projetos próprios 🚀
+status:     Desenvolvendo projetos próprios
+localização: Rio Grande do Sul, Brasil
 ```
 
 Sou um desenvolvedor apaixonado por tecnologia, **software** e **desenvolvimento de jogos**. Minha jornada começou com **hardware**, manutenção de computadores e sistemas operacionais **Linux** e **Windows**, evoluindo para o desenvolvimento de software e projetos autorais.

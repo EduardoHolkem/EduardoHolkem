@@ -6,14 +6,18 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o+%F0%9F%9A%80;Apaixonado+por+Tecnologia+%26+Games+%F0%9F%8E%AE;Especialista+em+C%23+%26+Game+Development+%F0%9F%8E%AF;Linux+%7C+Hardware+%7C+Arquitetura+de+Software+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<!-- Social Badges -->
+<br/>
+
 <!-- Social Badges -->
 <p>
   <a href="https://www.linkedin.com/in/eduardo-da-silva-holkem-b6b5a8415/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.instagram.com/eduardoholkem/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><a href="https://www.youtube.com/channel/UCNdM_y1dQ75-5CmmAk5yE0w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
+
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=EduardoHolkem&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
-<a href="https://www.youtube.com/channel/UCNdM_y1dQ75-5CmmAk5yE0w"><img src="https://img.shields.io/youtube/channel/subscribers/UCNdM_y1dQ75-5CmmAk5yE0w?style=for-the-badge&logo=youtube&logoColor=white&label=Inscritos&color=FF0000" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=EduardoHolkem&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <a href="https://www.youtube.com/channel/UCNdM_y1dQ75-5CmmAk5yE0w"><img src="https://img.shields.io/youtube/channel/subscribers/UCNdM_y1dQ75-5CmmAk5yE0w?style=for-the-badge&logo=youtube&logoColor=white&label=Inscritos&color=FF0000" /></a>
+</p>
 
 </div>
 
@@ -44,49 +48,88 @@ Atualmente estudo **Tecnologia da Informação** no SEG - Sistema de Ensino Gaú
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 🤖 Linguagens e Tecnologias
 
-<div align="center">
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
-### 💻 Linguagens
+<br/><br/>
+
+---
+
+### 📊 Estatísticas
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GML-FABC3F?style=for-the-badge&logo=gamemaker&logoColor=black" />
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=EduardoHolkem&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&title_color=58a6ff&icon_color=58a6ff&border_color=58a6ff"
+  />
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHolkem&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=58a6ff&border_color=58a6ff"
+  />
+  <br clear="left"/>
 </p>
 
-### 🗄️ Banco de Dados
+---
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🖥️ Plataformas
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
-### ⚙️ Ferramentas
-<p>
-  <img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-</div>
-<br/>
-
-### 🎮 Áreas de Interesse em Projetos
+## 🎮 Áreas de Interesse em Projetos
 
 <div align="center">
 
 | Área | Tecnologias | Status |
-|------|------------|--------|
+|:----:|:-----------:|:------:|
 | 🎮 Game Development | GML, C# | 🔄 Em desenvolvimento |
 | 🖥️ Aplicações Desktop | C#, .NET | 🔄 Em desenvolvimento |
 | 🌐 Desenvolvimento Web | PHP, JavaScript, HTML/CSS | 🌱 Explorando |
@@ -94,24 +137,20 @@ Atualmente estudo **Tecnologia da Informação** no SEG - Sistema de Ensino Gaú
 
 </div>
 
-
-### Objetivos de Carreira
-<br/>
-
-- 🎯 **Especialização** em **C#** para desenvolvimento de software robusto
-- 🎮 **Dominar GML e C#** para criação de jogos independentes no GameMaker e Unity
-- 🏗️ Aprofundar conhecimentos em **Arquitetura de Software**
-- 💼 Construir uma **carreira sólida** em desenvolvimento de software e jogos
-- 🌍 Contribuir com **projetos open source**
-
 ---
 
 ## 📬 Contato
+
 <div align="center">
+
 <p>Fique à vontade para entrar em contato, estou aberto a colaborações, oportunidades e boas conversas sobre tecnologia!</p>
+
 <a href="https://www.linkedin.com/in/eduardo-da-silva-holkem-b6b5a8415/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/eduardoholkem/"><img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UCNdM_y1dQ75-5CmmAk5yE0w"><img src="https://img.shields.io/badge/YouTube-Inscrever-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+
 <br/><br/>
+
 <a href="https://www.google.com/maps/place/Santa+Maria+-+RS/@-29.7774551,-53.9894576,11z/data=!3m1!4b1!4m6!3m5!1s0x9503cb5d0da567bf:0xa44d9c1e7f7f7297!8m2!3d-29.6894984!4d-53.7923441!16zL20vMDUwczJi?entry=ttu&g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D"><img src="https://img.shields.io/badge/Localização-Rio%20Grande%20do%20Sul%2C%20Brasil-green?style=flat-square&logo=google-maps&logoColor=white" /></a>
+
 </div>
 
 ---

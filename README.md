@@ -110,18 +110,22 @@ Atualmente estudo **Tecnologia da Informação** no SEG - Sistema de Ensino Gaú
 
 
 
-  <div align="center">
-    <img
-      height="150"
-      width="300"
-      src="https://github-readme-stats.vercel.app/api?username=EduardoHolkem&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&locale=pt-br&hide_border=true"
+<div align="center">
+  <a href="https://github.com/EduardoHolkem">
+    <img 
+      height="200" 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api?username=EduardoHolkem&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&locale=pt-br&hide_border=true" 
     />
-    <img
-      height="150"
-      width="300"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHolkem&theme=vision-friendly-dark&hide_border=true&layout=compact&langs_count=6&locale=pt-br"
+  </a>
+  <a href="https://github.com/EduardoHolkem">
+    <img 
+      height="200" 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHolkem&theme=vision-friendly-dark&hide_border=true&layout=compact&langs_count=6&locale=pt-br&card_width=320" 
     />
-  </div>
+  </a>
+</div>
 <br/><br/>
 
 ## 🎮 Áreas de Interesse em Projetos

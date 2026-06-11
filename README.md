@@ -26,7 +26,7 @@
 
 <img align="right" alt="Coding GIF" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<table><tr><td width="600">
+<table><tr><td width="500">
     
 Sou um desenvolvedor apaixonado por tecnologia, **software** e **desenvolvimento de jogos**.Minha jornada começou com **hardware**, manutenção de computadores e sistemas operacionais **Linux** e **Windows**, evoluindo para o desenvolvimento de software e projetos autorais.
 

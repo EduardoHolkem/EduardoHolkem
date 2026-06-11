@@ -114,12 +114,12 @@ Atualmente estudo **Tecnologia da Informação** no SEG - Sistema de Ensino Gaú
     <img
       height="150"
       width="300"
-      src="https://github-readme-stats.vercel.app/api?username=EduardoHolkem&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=EduardoHolkem&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&locale=pt-br&hide_border=true"
     />
     <img
       height="150"
       width="300"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHolkem&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&locale=pt-br"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHolkem&theme=vision-friendly-dark&hide_border=true&layout=compact&langs_count=6&locale=pt-br"
     />
   </div>
 <br/><br/>

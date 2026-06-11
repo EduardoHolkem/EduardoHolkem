@@ -24,7 +24,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding GIF" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 
 Sou um desenvolvedor apaixonado por tecnologia, **software** e **desenvolvimento de jogos**. Minha jornada começou com **hardware**, manutenção de computadores e sistemas operacionais **Linux** e **Windows**, evoluindo para o desenvolvimento de software e projetos autorais.
@@ -36,7 +36,13 @@ Atualmente estudo **Tecnologia da Informação** no SEG - Sistema de Ensino Gaú
 - 📚 Sempre aprendendo e explorando novas tecnologias
 - 🏠 Localização: Rio Grande do Sul, Brasil
 
-<br clear="right"/>
+
+  
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoHolkem&theme=gruvbox&show_icons=true" width="300" />
+</br>
+ <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=erickfuzer&repo=WallpapersAnimados&theme=dark&show_icons=true" width="300" />
+</div>
 
 ## 🤖 Linguagens e Tecnologias
 

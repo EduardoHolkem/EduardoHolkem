@@ -26,6 +26,8 @@
 
 <img align="right" alt="Coding GIF" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
+<table><tr><td width="600">
+    
 Sou um desenvolvedor apaixonado por tecnologia, **software** e **desenvolvimento de jogos**.Minha jornada começou com **hardware**, manutenção de computadores e sistemas operacionais **Linux** e **Windows**, evoluindo para o desenvolvimento de software e projetos autorais.
 
 Atualmente estudo **Tecnologia da Informação** no SEG - Sistema de Ensino Gaúcho,e dedico meu tempo a aprimorar habilidades através de projetos práticos, com foco especial em **C#** e **GameMaker Language (GML)**.
@@ -35,7 +37,8 @@ Atualmente estudo **Tecnologia da Informação** no SEG - Sistema de Ensino Gaú
 - 🎮 Entusiasta de game development com GameMaker
 - 📚 Sempre aprendendo e explorando novas tecnologias
 - 🏠 Localização: Rio Grande do Sul, Brasil
-
+  
+</td></tr></table>
 
 <table>
   <tr>

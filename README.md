@@ -40,8 +40,9 @@ Atualmente estudo **Tecnologia da Informação** no SEG - Sistema de Ensino Gaú
   
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=EduardoHolkem&theme=gruvbox&show_icons=true" width="300" />
-</br>
- <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=erickfuzer&repo=WallpapersAnimados&theme=dark&show_icons=true" width="300" />
+</div>
+<div align="right">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=erickfuzer&repo=WallpapersAnimados&theme=dark&show_icons=true" width="300" />
 </div>
 
 ## 🤖 Linguagens e Tecnologias

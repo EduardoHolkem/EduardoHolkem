@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=Eduardo%20Holkem&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Game%20Dev%20Enthusiast%20%7C%20Tech%20Lover&descAlignY=58&descSize=18&animation=fadeIn" width="860" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8980a,50:c87a18,100:2d1c06&height=200&section=header&text=Eduardo%20Holkem&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Game%20Dev%20Enthusiast%20%7C%20Tech%20Lover&descAlignY=58&descSize=18&animation=fadeIn" width="860" />
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o+%F0%9F%9A%80;Apaixonado+por+Tecnologia+%26+Games+%F0%9F%8E%AE;Especialista+em+C%23+%26+Game+Development+%F0%9F%8E%AF;Linux+%7C+Hardware+%7C+Arquitetura+de+Software+%F0%9F%92%BB)](https://git.io/typing-svg)
@@ -42,9 +42,6 @@ Atualmente estudo **Tecnologia da Informação** no SEG - Sistema de Ensino Gaú
 - 🎮 Entusiasta de game development com GameMaker
 - 📚 Sempre aprendendo e explorando novas tecnologias
 - 🏠 Localização: Rio Grande do Sul, Brasil
-
-
-
 
 <br clear="right"/>
 
@@ -102,27 +99,10 @@ Atualmente estudo **Tecnologia da Informação** no SEG - Sistema de Ensino Gaú
 />
 
 
-
-<br/><br/>
-
-## 🎮 Áreas de Interesse em Projetos
-
-<div align="center">
-
-| Área | Tecnologias | Status |
-|:----:|:-----------:|:------:|
-| 🎮 Game Development | GML, C# | 🔄 Em desenvolvimento |
-| 🖥️ Aplicações Desktop | C#, .NET | 🔄 Em desenvolvimento |
-| 🌐 Desenvolvimento Web | PHP, JavaScript, HTML/CSS | 🌱 Explorando |
-| 🗃️ Banco de Dados | MySQL | 📚 Estudando |
-
-</div>
-
-
 <div align="center">
 <br/><br/><br/>
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer" width="860" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8980a,100:2d1c06&height=120&section=footer" width="860" />
 
 <sub>⭐ Se algum projeto te ajudou, considera deixar uma estrela! É o combustível do desenvolvedor. 🚀</sub>
 

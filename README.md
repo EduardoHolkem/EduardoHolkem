@@ -37,11 +37,10 @@ Atualmente estudo **Tecnologia da Informação** no SEG - Sistema de Ensino Gaú
 - 🏠 Localização: Rio Grande do Sul, Brasil
 
 
-
 <table>
   <tr>
     <td valign="top">
-      <img width="600" src="https://github.com/user-attachments/assets/fd729705-04fb-4e38-9709-5d05f7f8de9e" />
+      <img width="600" src="https://github.com/user-attachments/assets/e98b4772-a790-48b2-9f88-9b28360f603e" />
     </td>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=EduardoHolkem&theme=gruvbox&show_icons=true" width="300" />

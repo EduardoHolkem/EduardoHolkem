@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8980a,50:c87a18,100:2d1c06&height=200&section=header&text=Eduardo%20Holkem&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Game%20Dev%20Enthusiast%20%7C%20Tech%20Lover&descAlignY=58&descSize=18&animation=fadeIn" width="860" />
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o+%F0%9F%9A%80;Apaixonado+por+Tecnologia+%26+Games+%F0%9F%8E%AE;Especialista+em+C%23+%26+Game+Development+%F0%9F%8E%AF;Linux+%7C+Hardware+%7C+Arquitetura+de+Software+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&pause=1000&color=F79418&background=0E0C0B00&center=true&vCenter=true&lines=Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;Apaixonado+por+Tecnologia+%26+Games;Hardware+%7C+Arquitetura+de+Software)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,13 +26,6 @@
 
 <img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```yaml
-nome:        Eduardo Holkem
-idade:       19 anos
-formação:    Tecnologia da Informação - SEG
-status:      Desenvolvendo projetos próprios
-localização: Rio Grande do Sul, Brasil
-```
 
 Sou um desenvolvedor apaixonado por tecnologia, **software** e **desenvolvimento de jogos**. Minha jornada começou com **hardware**, manutenção de computadores e sistemas operacionais **Linux** e **Windows**, evoluindo para o desenvolvimento de software e projetos autorais.
 

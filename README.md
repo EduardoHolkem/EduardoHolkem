@@ -45,15 +45,13 @@ Atualmente estudo **Tecnologia da Informação** no SEG - Sistema de Ensino Gaú
     <td valign="top">
       <img width="600" src="https://github.com/user-attachments/assets/e98b4772-a790-48b2-9f88-9b28360f603e" />
     </td>
-    <td valign="top
-  <a href="https://github.com/erickfuzer/WallpapersAnimados">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=erickfuzer&repo=WallpapersAnimados&theme=dark&show_icons=true" width="300" />
-  </a>
+    <td valign="top">
+      <a href="https://github.com/erickfuzer/WallpapersAnimados">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=erickfuzer&repo=WallpapersAnimados&theme=dark&show_icons=true" width="300" />
+      </a>
     </td>
   </tr>
 </table>
-
-<div align="center">
 
 ## 🤖 Linguagens e Tecnologias
 </div>

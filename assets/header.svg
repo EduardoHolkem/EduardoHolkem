@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Eduardo Holkem, desenvolvedor">
+  <defs>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="75"/></filter>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity=".35"/></pattern>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern>
+    <radialGradient id="vig" cx="50%" cy="50%" r="75%">
+      <stop offset="55%" stop-color="#05000f" stop-opacity="0"/><stop offset="100%" stop-color="#05000f" stop-opacity=".9"/>
+    </radialGradient>
+    <clipPath id="round"><rect width="1200" height="300" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="300" fill="#07030f"/>
+    <g filter="url(#blur)" opacity=".8">
+      <circle r="180" fill="#ff3fb4" cx="160" cy="70"><animate attributeName="cx" values="160;380;160" dur="14s" repeatCount="indefinite"/><animate attributeName="cy" values="70;230;70" dur="11s" repeatCount="indefinite"/></circle>
+      <circle r="190" fill="#9b5cff" cx="500" cy="270"><animate attributeName="cx" values="500;300;500" dur="16s" repeatCount="indefinite"/></circle>
+      <circle r="180" fill="#2e6bff" cx="820" cy="50"><animate attributeName="cx" values="820;980;820" dur="15s" repeatCount="indefinite"/><animate attributeName="cy" values="50;220;50" dur="12s" repeatCount="indefinite"/></circle>
+      <circle r="170" fill="#2ff3e0" cx="1080" cy="260"><animate attributeName="cx" values="1080;880;1080" dur="17s" repeatCount="indefinite"/></circle>
+    </g>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <!-- prompt de terminal -->
+    <text x="600" y="92" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="17" fill="#c9b8ff" opacity=".85">~/eduardo $ whoami<tspan fill="#2ff3e0">▍<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+    <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="800" font-size="76" text-anchor="middle" letter-spacing="6">
+      <text x="596" y="168" fill="#ff3fb4" opacity=".85">Eduardo Holkem<animate attributeName="x" values="596;596;582;596;596" keyTimes="0;.9;.92;.94;1" dur="7s" repeatCount="indefinite"/></text>
+      <text x="604" y="168" fill="#2ff3e0" opacity=".85">Eduardo Holkem<animate attributeName="x" values="604;604;618;604;604" keyTimes="0;.9;.92;.94;1" dur="7s" repeatCount="indefinite"/></text>
+      <text x="600" y="168" fill="#ffffff" filter="url(#glow)">Eduardo Holkem</text>
+    </g>
+    <text x="600" y="214" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" letter-spacing="5" fill="#efe6ff" opacity=".9">DESENVOLVEDOR  ✦  TECNOLOGIA DA INFORMAÇÃO  ✦  GAME DEV</text>
+    <text x="600" y="250" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" letter-spacing="3" fill="#c9b8ff" opacity=".7">código, hardware e um pouco de Pastel Ghost no fone</text>
+    <rect width="1200" height="300" fill="url(#scan)" opacity=".5"/>
+    <rect width="1200" height="300" fill="url(#vig)"/>
+  </g>
+</svg>

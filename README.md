@@ -20,7 +20,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff3fb4,33:9b5cff,66:2e6bff,100:2ff3e0&height=3&section=header" width="100%"/>
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 <img align="right" alt="Programando" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
@@ -30,18 +30,18 @@ Sou um desenvolvedor apaixonado por tecnologia, **software** e **desenvolvimento
 
 Atualmente estudo **Tecnologia da Informação** no SEG (Sistema de Ensino Gaúcho) e dedico meu tempo a aprimorar habilidades através de projetos práticos, com foco especial em **C#** e **GameMaker Language (GML)**.
 
-- 🔧 Background sólido em hardware e infraestrutura
-- 🎮 Entusiasta de game development com GameMaker
-- 🖥️ Criando wallpapers animados com HTML, CSS e JavaScript
-- 📚 Sempre aprendendo e explorando novas tecnologias
-- 🎧 Trilha sonora de quase todo código, **Pastel Ghost**
-- 🏠 Rio Grande do Sul, Brasil
+- Background sólido em hardware e infraestrutura
+- Entusiasta de game development com GameMaker
+- Criando wallpapers animados com HTML, CSS e JavaScript
+- Sempre aprendendo e explorando novas tecnologias
+- Trilha sonora de quase todo código, **Pastel Ghost**
+- Rio Grande do Sul, Brasil
 
 </td></tr></table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff3fb4,33:9b5cff,66:2e6bff,100:2ff3e0&height=3&section=header" width="100%"/>
 
-## 💜 Projeto em destaque
+## Projeto em destaque
 
 <table>
   <tr>
@@ -78,7 +78,7 @@ Fundo de quatro cores, fantasmas espelhados em neon, halo de luz RGB, glitch e e
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff3fb4,33:9b5cff,66:2e6bff,100:2ff3e0&height=3&section=header" width="100%"/>
 
-## 🤖 Linguagens e tecnologias
+## Linguagens e tecnologias
 
 <div align="center">
 <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>&nbsp;
@@ -101,7 +101,7 @@ Fundo de quatro cores, fantasmas espelhados em neon, halo de luz RGB, glitch e e
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff3fb4,33:9b5cff,66:2e6bff,100:2ff3e0&height=3&section=header" width="100%"/>
 
-## 🎧 Tocando agora
+## Tocando agora
 
 <div align="center">
 <a href="https://open.spotify.com/search/Pastel%20Ghost%20Lilacs"><img src="assets/on-repeat.svg" width="480" alt="No repeat, Lilacs de Pastel Ghost"/></a>
@@ -113,5 +113,5 @@ Fundo de quatro cores, fantasmas espelhados em neon, halo de luz RGB, glitch e e
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3fb4,33:9b5cff,66:2e6bff,100:2ff3e0&height=120&section=footer" width="100%"/>
 
-<sub>⭐ Se algum projeto te ajudou, considera deixar uma estrela. É o combustível do desenvolvedor 🚀</sub>
+<sub>Se algum projeto te ajudou, considera deixar uma estrela. É o combustível do desenvolvedor.</sub>
 </div>

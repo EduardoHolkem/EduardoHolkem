@@ -10,11 +10,11 @@
 
 <a href="mailto:eduardosilvaholkem@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1030?style=for-the-badge&logo=gmail&logoColor=ff3fb4"/></a>
 <a href="https://www.linkedin.com/in/eduardo-da-silva-holkem-b6b5a8415/"><img src="https://img.shields.io/badge/LinkedIn-1a1030?style=for-the-badge&logo=linkedin&logoColor=9b5cff"/></a>
-<a href="https://www.youtube.com/channel/UCNdM_y1dQ75-5CmmAk5yE0w"><img src="https://img.shields.io/badge/YouTube-1a1030?style=for-the-badge&logo=youtube&logoColor=2e6bff"/></a>
+<a href="https://www.youtube.com/@EduardoSilvaHolkem"><img src="https://img.shields.io/badge/YouTube-1a1030?style=for-the-badge&logo=youtube&logoColor=2e6bff"/></a>
 <a href="https://www.instagram.com/eduardoholkem/"><img src="https://img.shields.io/badge/Instagram-1a1030?style=for-the-badge&logo=instagram&logoColor=2ff3e0"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=EduardoHolkem&color=9b5cff&style=for-the-badge&label=VISITAS+NO+PERFIL"/>
-<a href="https://www.youtube.com/channel/UCNdM_y1dQ75-5CmmAk5yE0w"><img src="https://img.shields.io/youtube/channel/subscribers/UCNdM_y1dQ75-5CmmAk5yE0w?style=for-the-badge&logo=youtube&logoColor=white&label=Inscritos&color=ff3fb4"/></a>
+<a href="https://www.youtube.com/@EduardoSilvaHolkem"><img src="https://img.shields.io/badge/YouTube-@EduardoSilvaHolkem-ff3fb4?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1030"/></a>
 
 </div>
 

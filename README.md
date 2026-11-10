@@ -39,17 +39,18 @@ Atualmente estudo **Tecnologia da Informação** no SEG (Sistema de Ensino Gaúc
 <table>
   <tr>
     <td width="58%" valign="top">
-      <a href="https://github.com/EduardoHolkem/Lilacs-Wallpaper">
-        <img src="https://raw.githubusercontent.com/EduardoHolkem/Lilacs-Wallpaper/main/assets/preview.jpg" width="100%" alt="Prévia do Lilacs Wallpaper"/>
+      <a href="https://eduardoholkem.github.io/wallpapers/">
+        <img src="assets/hub.jpg" width="100%" alt="Hub de Wallpapers com a prévia do Lilacs"/>
       </a>
     </td>
     <td valign="top">
-      <h3><a href="https://github.com/EduardoHolkem/Lilacs-Wallpaper">Lilacs Wallpaper</a></h3>
-      <p>Wallpaper animado inspirado em <i>Lilacs</i>, do Pastel Ghost, para <b>Wallpaper Engine</b> e <b>Lively</b>.</p>
-      <p>Fundo de quatro cores, fantasmas espelhados em neon, halo de luz RGB, glitch e estética VHS. Ele ainda mostra a música que está tocando no Spotify ou no YouTube Music, com a letra sincronizada.</p>
+      <h3><a href="https://eduardoholkem.github.io/wallpapers/">Hub de Wallpapers</a></h3>
+      <p>Coleção de wallpapers animados para <b>Wallpaper Engine</b> e <b>Lively</b>, com um site onde dá para ver cada um rodando ao vivo e escolher qual baixar.</p>
+      <p>O destaque é o <a href="https://github.com/EduardoHolkem/wallpapers/tree/main/lilacs"><b>Lilacs</b></a>, inspirado no Pastel Ghost, que mostra a música tocando no Spotify ou no YouTube Music com a letra sincronizada. Junto com ele estão o Daemon e o Jon Snow.</p>
       <p>
-        <a href="https://eduardoholkem.github.io/Lilacs-Wallpaper/"><img src="https://img.shields.io/badge/demo-9b5cff?style=flat-square&logo=googlechrome&logoColor=white" alt="Ver a demo"/></a>
-        <a href="https://github.com/EduardoHolkem/Lilacs-Wallpaper/releases/latest"><img src="https://img.shields.io/badge/baixar-ff3fb4?style=flat-square&logo=github&logoColor=white" alt="Baixar"/></a>
+        <a href="https://eduardoholkem.github.io/wallpapers/"><img src="https://img.shields.io/badge/abrir%20o%20hub-1f3dff?style=flat-square&logo=googlechrome&logoColor=white" alt="Abrir o hub"/></a>
+        <a href="https://github.com/EduardoHolkem/wallpapers"><img src="https://img.shields.io/badge/repositório-9b5cff?style=flat-square&logo=github&logoColor=white" alt="Repositório"/></a>
+        <a href="https://github.com/EduardoHolkem/wallpapers/releases"><img src="https://img.shields.io/badge/baixar-ff3fb4?style=flat-square&logo=github&logoColor=white" alt="Baixar"/></a>
       </p>
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EduardoHolkem&layout=compact&bg_color=0d0718&title_color=ff3fb4&text_color=c9b8ff&border_color=3a2366&locale=pt-br" width="100%" alt="Linguagens mais usadas"/>
     </td>
